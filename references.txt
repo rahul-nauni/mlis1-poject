@@ -5,4 +5,5 @@
 - How gradient descent alogorithm works: https://realpython.com/gradient-descent-algorithm-python/
 - Gradient descent plot motivation: https://atmamani.github.io/projects/ml/gradient-descent-in-python/
 - Ridge regression: https://www.statlect.com/fundamentals-of-statistics/ridge-regression
-- The hundred page machine learning book (Gradient descent pg. 36)
+- The hundred page machine learning book by Andriy Burkov (Gradient descent pg. 36)
+- Seaice Dataset : https://nsidc.org/data/seaice_index
