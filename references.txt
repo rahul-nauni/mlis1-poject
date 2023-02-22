@@ -1,6 +1,6 @@
 # References used
 
-- Normal equations of Ordinary least squares (OLS)
+- Normal equations of Ordinary least squares (OLS) : https://www.statlect.com/glossary/normal-equations
 - Mini batch gradient descent motivation: https://www.youtube.com/watch?v=4qJaSmvhxi8
 - How gradient descent alogorithm works: https://realpython.com/gradient-descent-algorithm-python/
 - Gradient descent plot motivation: https://atmamani.github.io/projects/ml/gradient-descent-in-python/
